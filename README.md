@@ -1,4 +1,4 @@
-# Download
+# ดักPassword Facebook BY:นักเลง คีย์บอร์ด
 apt update && apt upgrate
 
 apt install python && apt install python2
